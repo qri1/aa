@@ -1,0 +1,12 @@
+data/
+metrics/
+artifacts/
+checkpoints/
+outputs/
+wandb/
+.cache/
+.ipynb_checkpoints/
+__pycache__/
+*.zip
+.env
+
